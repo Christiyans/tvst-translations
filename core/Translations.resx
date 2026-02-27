@@ -1414,7 +1414,7 @@ deserves to be funny!</value>
     <value>retrieving ratings...</value>
   </data>
   <data name="StatusDisplay_SyncingImages" xml:space="preserve">
-    <value>retrieving images...</value>
+      <value>retrieving shows images...</value>
   </data>
   <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
     <value>syncing calendar...</value>
@@ -1831,7 +1831,7 @@ Do you confirm ?
     <value>Collected</value>
   </data>
   <data name="StatusDisplay_SyncingMovieImages" xml:space="preserve">
-    <value>syncing movies images...</value>
+      <value>retrieving movies images...</value>
   </data>
   <data name="MovieInList_WatchedAtFormat" xml:space="preserve">
     <value>Watched on

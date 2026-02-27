@@ -1376,8 +1376,8 @@ y tendencias mundiales!</value>
     <value>Recuperando puntuaciones…</value>
   </data>
     <data name="StatusDisplay_SyncingImages" xml:space="preserve">
-    <value>Recuperando imágenes…</value>
-  </data>
+        <value>Recuperando imágenes de series…</value>
+    </data>
     <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
     <value>Sincronizando calendario…</value>
   </data>
@@ -1763,7 +1763,7 @@ y tendencias mundiales!</value>
       <value>Añadida</value>
     </data>
     <data name="StatusDisplay_SyncingMovieImages" xml:space="preserve">
-      <value>Sincronizando imágenes de las películas…</value>
+        <value>Recuperando imágenes de las películas…</value>
     </data>
     <data name="MovieInList_WatchedAtFormat" xml:space="preserve">
       <value>Visto el {0}</value>

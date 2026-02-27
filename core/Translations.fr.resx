@@ -2203,7 +2203,7 @@ d'être pleine de surprises !</value>
   <data
       name     ="StatusDisplay_SyncingImages"
       xml:space="preserve">
-    <value>récupération des images...</value>
+      <value>récupération des images de séries...</value>
   </data>
   <data
       name     ="StatusDisplay_SyncingCalendar"
@@ -2764,12 +2764,12 @@ Confirmez-vous ?
  xml:space="preserve">
     <value>Possédés</value>
   </data><data
- name     ="StatusDisplay_SyncingMovieImages"
- xml:space="preserve">
-    <value>synchronisation des images de film...</value>
+             name     ="StatusDisplay_SyncingMovieImages"
+             xml:space="preserve">
+      <value>récupération des images de film...</value>
   </data><data
- name     ="MovieInList_WatchedAtFormat"
- xml:space="preserve">
+             name     ="MovieInList_WatchedAtFormat"
+             xml:space="preserve">
     <value>Vu le
 {0}</value>
 

@@ -2179,8 +2179,8 @@ merece ser divertida!</value>
     <data
         name="StatusDisplay_SyncingImages"
         xml:space="preserve">
-    <value>Recebendo imagens...</value>
-  </data>
+        <value>Recebendo imagens das séries…</value>
+    </data>
     <data
         name="StatusDisplay_SyncingCalendar"
         xml:space="preserve">
@@ -2792,10 +2792,10 @@ Você confirma?
     <value>Colecionado</value>
 </data>
 
-<data
+    <data
         name     ="StatusDisplay_SyncingMovieImages" xml:space="preserve">
-    <value>Sincronizando imagens dos filmes...</value>
-</data>
+        <value>Recebendo imagens dos filmes...</value>
+    </data>
 
 <data
         name     ="MovieInList_WatchedAtFormat" xml:space="preserve">
@@ -2816,10 +2816,10 @@ Você confirma?
     <value>Como você avalia este filme?</value>
 </data>
 
-<data
+    <data
         name     ="StatusDisplay_SyncingMovieInfos" xml:space="preserve">
-    <value>Recuperando informações de filmes...</value>
-</data>
+        <value>Recebendo informações de filmes...</value>
+    </data>
 
 
     <data

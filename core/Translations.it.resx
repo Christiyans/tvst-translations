@@ -1347,32 +1347,32 @@ merita di essere divertente!</value>
     <value>Trakt.tv sembra essere offline. Non è la tua connessione Internet o un errore dell'applicazione. Per favore riprova più tardi.</value>
   </data>
     <data name="StatusDisplay_SyncingExtraInfo" xml:space="preserve">
-    <value>Sincronizzazione di informazioni aggiuntive...</value>
-  </data>
+        <value>Caricamento di informazioni aggiuntive...</value>
+    </data>
     <data name="StatusDisplay_SyncingHiddenItems" xml:space="preserve">
-    <value>Sincronizzazione di oggetti nascosti...</value>
-  </data>
+        <value>Caricamento di oggetti nascosti...</value>
+    </data>
     <data name="StatusDisplay_SyncingRatings" xml:space="preserve">
-    <value>Sincronizzazione valutazioni...</value>
-  </data>
+        <value>Caricamento valutazioni...</value>
+    </data>
     <data name="StatusDisplay_SyncingImages" xml:space="preserve">
-    <value>Sincronizzazione immagini...</value>
-  </data>
+        <value>Caricamento immagini delle serie…</value>
+    </data>
     <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
     <value>Aggiornamento del calendario...</value>
   </data>
     <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
-    <value>Sincronizzazione stagioni ed episodi...</value>
-  </data>
+        <value>Caricamento stagioni ed episodi...</value>
+    </data>
     <data name="StatusDisplay_SyncingShowInfos" xml:space="preserve">
-    <value>Sincronizzazione di informazioni da SERIE TV...</value>
-  </data>
+        <value>Caricamento di informazioni da SERIE TV...</value>
+    </data>
     <data name="StatusDisplay_SyncingShows" xml:space="preserve">
-    <value>Sincronizzazione delle tue SERIE TV...</value>
-  </data>
+        <value>Caricamento delle tue SERIE TV...</value>
+    </data>
     <data name="StatusDisplay_SyncingTranslations" xml:space="preserve">
-    <value>Sincronizzazione delle traduzioni...</value>
-  </data>
+        <value>Caricamento delle traduzioni...</value>
+    </data>
 
     <data name="ToastNotifications_Code_EpisodeAiredFormat" xml:space="preserve">
     <value>L'episodio {0} di {1} è andato in onda!</value>
@@ -1751,8 +1751,8 @@ Confermi?
 </data>
 
     <data name="StatusDisplay_SyncingMovieImages" xml:space="preserve">
-    <value>Sincronizzazione immagini dei film...</value>
-</data>
+        <value>Caricamento immagini dei film...</value>
+    </data>
 
     <data name="MovieInList_WatchedAtFormat" xml:space="preserve">
     <value>Visto il {0}</value>
@@ -1772,8 +1772,8 @@ Confermi?
 </data>
 
     <data name="StatusDisplay_SyncingMovieInfos" xml:space="preserve">
-    <value>Recupero delle informazioni sul film...</value>
-</data>
+        <value>Caricamento delle informazioni sul film...</value>
+    </data>
     <data name="Home_MoviesListsPageTitlePlural" xml:space="preserve">
     <value>{0} film</value>
 </data>
