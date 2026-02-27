@@ -2632,4 +2632,7 @@ Recordatorio: tu código es {0}.</value>
     <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
       <value>Problema de inicio de sesión</value>
     </data>
+    <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
+      <value>No hay tráiler disponible en este momento.</value>
+    </data>
 </root>

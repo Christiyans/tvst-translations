@@ -3945,4 +3945,10 @@ Rappel : votre code est {0}.</value>
   <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
     <value>Problème de connexion</value>
   </data>
+  <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
+    <value>Aucune bande-annonce disponible pour le moment…</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>BANDE-ANNONCE</value>
+  </data>
 </root>

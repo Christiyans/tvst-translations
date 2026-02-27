@@ -3983,4 +3983,7 @@ Lembrete: o seu código é {0}.</value>
     <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
         <value>Problema de início de sessão</value>
     </data>
+    <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
+        <value>Nenhum trailer disponível no momento…</value>
+    </data>
 </root>

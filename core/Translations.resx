@@ -443,9 +443,7 @@ Try adding one :-)</value>
   <data name="Thunderbolt_Explanation" xml:space="preserve">
     <value>If you only had 50 movies and TV shows to bring with them on a desert island, what would they be?
 
-It does add the show to the list of items your personally recommend.
-It creates better personal recommendations for you.
-
+It does add the show to the list of items your personally recommend and creates better personal recommendations for you.
 </value>
   </data>
   <data name="Home_Menu_ContactMe_Reason_WannaTalk" xml:space="preserve">
@@ -1140,7 +1138,7 @@ Do you confirm ?
     <value>REMOVE THE SHOW ?</value>
   </data>
   <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
-    <value>Sorry, cannot remove the show '{0}' from your collection at this time</value>
+    <value>Sorry, cannot remove the show '{0}' from your collection at the moment</value>
   </data>
   <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
     <value>AIRED EPISODES</value>
@@ -1266,7 +1264,13 @@ Do you confirm ?
   </data>
 
   <data name="ShowDetails_ShowInfo_CastOrCrewEmpty_Text" xml:space="preserve">
-    <value>No information available at this time...</value>
+    <value>No information available at the moment...</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
+    <value>No trailer available at the moment.</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>TRAILER</value>
   </data>
   <data name="ShowDetails_ShowInfo_CrewGroupHeader_Text" xml:space="preserve">
     <value>CREW</value>
@@ -1392,7 +1396,7 @@ deserves to be funny!</value>
     <value>sync failure : please check your internet connection</value>
   </data>
   <data name="StatusDisplay_SyncFailureBecauseOfTrakt" xml:space="preserve">
-    <value>error: Trakt.tv is not available at this time</value>
+    <value>error: Trakt.tv is currently unavailable</value>
   </data>
   <data name="Global_Error_SyncFailureBecauseOfTrakt" xml:space="preserve">
     <value>Trakt.tv seems to be down. This is not your internet connection or the app fault. Please try again later.</value>
@@ -1499,7 +1503,7 @@ deserves to be funny!</value>
     <value>An advertisement will be displayed.</value>
   </data>
   <data name="Episode_UnknowTitle" xml:space="preserve">
-    <value>Unknown title at this time</value>
+    <value>Unknown title at the moment</value>
   </data>
   <data name="Home_Menu_ContactSection_Text" xml:space="preserve">
     <value>CONTACT</value>
