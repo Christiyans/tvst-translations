@@ -3233,7 +3233,9 @@ xml:space="preserve">
   <data
         name     ="Trakt_AccountLockedContent"
         xml:space="preserve">
-    <value>Votre compte a été bloqué par Trakt. Merci de les contacter par email : support@trakt.tv.</value>
+    <value>Votre compte a été désactivé en raison d'inactivité. Pour le réactiver, veuillez vous connecter à votre compte sur https://app.trakt.tv.
+
+Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veuillez contacter l'équipe Trakt : support@trakt.tv.</value>
   </data>
 
   <data
@@ -3242,9 +3244,14 @@ xml:space="preserve">
     <value>LES CONTACTER</value>
   </data>
   <data
+        name     ="Trakt_AccountLockedOpenLink"
+        xml:space="preserve">
+    <value>OUVRIR TRAKT.TV</value>
+  </data>
+  <data
       name     ="Trakt_AccountLockedTitle"
       xml:space="preserve">
-    <value>COMPTE BLOQUÉ</value>
+    <value>COMPTE DÉSACTIVÉ</value>
   </data>
   <data
       name     ="ProcessItemsToBeSetAsSeen_CantBeDoneNow"

@@ -2113,14 +2113,19 @@ Do you confirm ?
     <value>Unhide this season</value>
   </data>
   <data name="Trakt_AccountLockedContent" xml:space="preserve">
-    <value>Your account has been locked by the Trakt team. Please contact them at support@trakt.tv.</value>
+    <value>Your account has been deactivated due to inactivity. To reactivate it, please log in to your account at https://app.trakt.tv.
+
+If you are still unable to access your account after logging in, please contact Trakt team at support@trakt.tv.</value>
   </data>
   <data name ="Trakt_AccountLockedContactButton"
       xml:space="preserve">
     <value>CONTACT THEM</value>
   </data>
+  <data name="Trakt_AccountLockedOpenLink" xml:space="preserve">
+    <value>OPEN TRAKT.TV</value>
+  </data>
   <data name="Trakt_AccountLockedTitle" xml:space="preserve">
-    <value>ACCOUNT LOCKED</value>
+    <value>ACCOUNT DEACTIVATED</value>
   </data>
   <data name="ProcessItemsToBeSetAsSeen_CantBeDoneNow" xml:space="preserve">
     <value>Unable to send your recent changes to Trakt but don't worry, we'll try again later for you!</value>

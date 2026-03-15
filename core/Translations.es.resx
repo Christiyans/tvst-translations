@@ -2069,12 +2069,18 @@ y tendencias mundiales!</value>
   </data>
 
     <data name="Trakt_AccountLockedContent" xml:space="preserve">
-    <value>Su cuenta ha sido bloqueada por Trakt. Por favor, contáctalos en support@trakt.tv.</value>
+    <value>Tu cuenta ha sido desactivada por inactividad. Para reactivarla, inicia sesión en tu cuenta en https://app.trakt.tv.
+
+Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos Trakt: support@trakt.tv.</value>
   </data>
 
   <data name ="Trakt_AccountLockedContactButton"
       xml:space="preserve">
     <value>CONTACTARLOS</value>
+  </data>
+  <data name ="Trakt_AccountLockedOpenLink"
+      xml:space="preserve">
+    <value>ABRIR TRAKT.TV</value>
   </data>
     <data name="Trakt_AccountLockedTitle" xml:space="preserve">
     <value>CUENTA BLOQUEADA</value>

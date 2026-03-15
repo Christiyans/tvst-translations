@@ -2046,14 +2046,19 @@ Confermi?
   </data>
 
     <data name="Trakt_AccountLockedContent" xml:space="preserve">
-    <value>Il tuo account è stato bloccato da Trakt. Si prega di contattarli all'indirizzo support@trakt.tv.</value>
+    <value>Il tuo account è stato disattivato a causa di inattività. Per riattivarlo, accedi al tuo account su https://app.trakt.tv.
+
+Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt: support@trakt.tv.</value>
   </data>
 
     <data name="Trakt_AccountLockedContactButton" xml:space="preserve">
     <value>CONTATTARLI</value>
   </data>
+    <data name="Trakt_AccountLockedOpenLink" xml:space="preserve">
+    <value>APRI TRAKT.TV</value>
+  </data>
     <data name="Trakt_AccountLockedTitle" xml:space="preserve">
-    <value>ACCOUNT BLOCCATO</value>
+    <value>ACCOUNT DISATTIVATO</value>
   </data>
     <data name="ProcessItemsToBeSetAsSeen_CantBeDoneNow" xml:space="preserve">
         <value>Impossibile inviare le modifiche recenti a Trakt ma non preoccuparti, proveremo più tardi per te!</value>

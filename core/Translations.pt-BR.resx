@@ -3286,16 +3286,22 @@ Você confirma?
                 <data
         name     ="Trakt_AccountLockedContent"
         xml:space="preserve">
-    <value>Sua conta foi bloqueada pelo Trakt. Por favor, entre em contato com eles em support@trakt.tv.</value>
+    <value>Sua conta foi desativada por inatividade. Para reativá-la, faça login em sua conta em https://app.trakt.tv.
+
+Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt em support@trakt.tv.</value>
   </data>
   <data name ="Trakt_AccountLockedContactButton"
     xml:space="preserve">
     <value>CONTACTÁ-LOS</value>
   </data>
+  <data name ="Trakt_AccountLockedOpenLink"
+    xml:space="preserve">
+    <value>ABRIR TRAKT.TV</value>
+  </data>
     <data
         name     ="Trakt_AccountLockedTitle"
         xml:space="preserve">
-    <value>CONTA BLOQUEADA</value>
+    <value>CONTA DESATIVADA</value>
   </data>
     <data
         name     ="ProcessItemsToBeSetAsSeen_CantBeDoneNow"
