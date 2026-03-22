@@ -832,6 +832,12 @@ matches this search
   <data name="Settings_Display_AppLanguage_Text" xml:space="preserve">
     <value>App language</value>
   </data>
+  <data name="Settings_Display_AddMyLanguage_Text" xml:space="preserve">
+    <value>I want to add my language</value>
+  </data>
+  <data name="Settings_Display_AddMyLanguage_Explanation" xml:space="preserve">
+    <value>You are about to be redirected to a website where the procedure to add a new app language is explained.</value>
+  </data>
   <data name="Settings_Display_AppDataLanguage_Text" xml:space="preserve">
     <value>App's data language</value>
   </data>
@@ -2232,6 +2238,21 @@ If you are still unable to access your account after logging in, please contact 
   </data>
   <data name="Settings_Various_ExportSettings" xml:space="preserve">
     <value>Export the app settings</value>
+  </data>
+  <data name="Settings_Various_ExportCsv" xml:space="preserve">
+    <value>Export as CSV</value>
+  </data>
+  <data name="Settings_Various_ImportCsv" xml:space="preserve">
+    <value>Import a CSV</value>
+  </data>
+  <data name="Settings_CsvExport_Explanation" xml:space="preserve">
+    <value>This export will not include the content of your custom lists, except your watchlist, or hidden items. Only movies, shows, episodes, watchlist entries, watch history, and ratings in the current state known by the app will be exported.</value>
+  </data>
+  <data name="Settings_CsvImport_Explanation" xml:space="preserve">
+    <value>You are going to be redirected to the Trakt website to import a CSV. You should do it on the website after signing in to your Trakt account.</value>
+  </data>
+  <data name="Settings_ExportCsv_NoData" xml:space="preserve">
+    <value>No data to export</value>
   </data>
   <data name="Settings_ExportHeaderText" xml:space="preserve">
     <value>BACKUP &amp; RESTORE</value>

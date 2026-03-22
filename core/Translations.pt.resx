@@ -1257,6 +1257,16 @@ corresponde à essa pesquisa
     <value>Idioma do aplicativo</value>
   </data>
     <data
+        name="Settings_Display_AddMyLanguage_Text"
+        xml:space="preserve">
+    <value>Quero adicionar meu idioma</value>
+  </data>
+    <data
+        name="Settings_Display_AddMyLanguage_Explanation"
+        xml:space="preserve">
+    <value>Você será redirecionado para um site onde o procedimento para adicionar um novo idioma ao aplicativo é explicado.</value>
+  </data>
+    <data
         name="Settings_Display_AppDataLanguage_Text"
         xml:space="preserve">
     <value>Idioma dos dados da série de TV</value>
@@ -4020,5 +4030,20 @@ Lembrete: o seu código é {0}.</value>
     </data>
     <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
         <value>Nenhum trailer disponível no momento…</value>
+    </data>
+    <data name="Settings_Various_ExportCsv" xml:space="preserve">
+        <value>Exportar como CSV</value>
+    </data>
+    <data name="Settings_Various_ImportCsv" xml:space="preserve">
+        <value>Importar um CSV</value>
+    </data>
+    <data name="Settings_CsvExport_Explanation" xml:space="preserve">
+        <value>Esta exportação não incluirá o conteúdo das suas listas personalizadas, exceto a watchlist, nem os elementos ocultos. Somente filmes, séries, episódios, itens da watchlist, histórico de visualização e avaliações no estado atualmente conhecido pelo aplicativo serão exportados.</value>
+    </data>
+    <data name="Settings_CsvImport_Explanation" xml:space="preserve">
+        <value>Você será redirecionado para o site do Trakt para importar um CSV. Faça isso no site depois de entrar na sua conta do Trakt.</value>
+    </data>
+    <data name="Settings_ExportCsv_NoData" xml:space="preserve">
+        <value>Nenhum dado para exportar</value>
     </data>
 </root>

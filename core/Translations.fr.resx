@@ -1316,6 +1316,16 @@ Exprimez-vous !</value>
     <value>Langue de l'application</value>
   </data>
   <data
+      name     ="Settings_Display_AddMyLanguage_Text"
+      xml:space="preserve">
+    <value>Je veux ajouter ma langue</value>
+  </data>
+  <data
+      name     ="Settings_Display_AddMyLanguage_Explanation"
+      xml:space="preserve">
+    <value>Vous allez être redirigé vers un site où la procédure pour ajouter une nouvelle langue à l'application est expliquée.</value>
+  </data>
+  <data
       name     ="Settings_Display_AppDataLanguage_Text"
       xml:space="preserve">
     <value>Langue des données de de l'application</value>
@@ -3374,6 +3384,21 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
     </data>
   <data name="Settings_Various_ExportSettings" xml:space="preserve">
         <value>Exporter vos paramètres</value>
+    </data>
+  <data name="Settings_Various_ExportCsv" xml:space="preserve">
+        <value>Exporter en CSV</value>
+    </data>
+  <data name="Settings_Various_ImportCsv" xml:space="preserve">
+        <value>Importer un CSV</value>
+    </data>
+  <data name="Settings_CsvExport_Explanation" xml:space="preserve">
+        <value>Cet export n'inclura pas le contenu de vos listes personnalisées, à part votre watchlist, ni les éléments masqués. Seuls les films, les séries, les épisodes, les éléments de watchlist, l'historique de lecture et les notes dans l'état actuellement connu par l'application seront exportés.</value>
+    </data>
+  <data name="Settings_CsvImport_Explanation" xml:space="preserve">
+        <value>Vous allez être redirigé vers le site de Trakt pour importer un CSV. Faites-le sur le site après vous être connecté à votre compte Trakt.</value>
+    </data>
+  <data name="Settings_ExportCsv_NoData" xml:space="preserve">
+        <value>Aucune donnée à exporter</value>
     </data>
   <data name="Settings_ExportHeaderText" xml:space="preserve">
         <value>SAUVEGARDE ET RESTAURATION</value>
