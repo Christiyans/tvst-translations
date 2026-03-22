@@ -9,6 +9,22 @@ Contributions that do not follow these guidelines may be rejected.
 
 ------------------------------------------------------------------------
 
+## ✅ How to contribute
+
+1.  Fork the repository.
+2.  Edit the `.resx` file for your language.
+3.  Commit your changes.
+4.  Open a Pull Request.
+5.  Describe what you changed.
+
+Example PR description:
+
+    Improved Italian translations for login and settings screens.
+    Fixed grammar and consistency.
+
+
+------------------------------------------------------------------------
+
 ## ✅ What you are allowed to do
 
 -   Translate existing values.
@@ -117,20 +133,6 @@ Before opening a Pull Request:
 
 ------------------------------------------------------------------------
 
-## ✅ How to contribute
-
-1.  Fork the repository.
-2.  Edit the `.resx` file for your language.
-3.  Commit your changes.
-4.  Open a Pull Request.
-5.  Describe what you changed.
-
-Example PR description:
-
-    Improved Italian translations for login and settings screens.
-    Fixed grammar and consistency.
-
-------------------------------------------------------------------------
 
 ## ⚠ Quality expectations
 
