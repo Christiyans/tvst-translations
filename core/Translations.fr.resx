@@ -200,6 +200,41 @@ Vous utilisez la version {0}</value>
 Cliquez-ici pour faire une donation !</value>
   </data>
   <data
+      name     ="AdCrossPromo_BooksTracker_Title"
+      xml:space="preserve">
+    <value>Books Tracker · par le créateur de TV Shows Tracker</value>
+  </data>
+  <data
+      name     ="AdCrossPromo_BooksTracker_Subtitle"
+      xml:space="preserve">
+    <value>Suis tes livres, comme tes séries</value>
+  </data>
+  <data
+      name     ="AdCrossPromo_BooksTracker_Cta"
+      xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data
+      name     ="AdCrossPromo_Cta"
+      xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data
+      name     ="AdCrossPromo_PodcastTracker_Title"
+      xml:space="preserve">
+    <value>Podcast Tracker · Par le créateur de TV Shows Tracker</value>
+  </data>
+  <data
+      name     ="AdCrossPromo_PodcastTracker_Subtitle"
+      xml:space="preserve">
+    <value>Écoute et suis tes podcasts. Comme pour tes séries.</value>
+  </data>
+  <data
+      name     ="AdCrossPromo_PodcastTracker_Cta"
+      xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data
       name     ="Billing_CannotConnectYouToTheStore"
       xml:space="preserve">
     <value>Impossible d'établir une connexion avec le Store pour le moment, merci de réessayer plus tard.</value>

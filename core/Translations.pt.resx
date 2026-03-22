@@ -2565,6 +2565,41 @@ merece ser divertida!</value>
 Clique aqui e faça uma doação!</value>
   </data>
     <data
+        name="AdCrossPromo_BooksTracker_Title"
+        xml:space="preserve">
+    <value>Books Tracker · pelo criador do TV Shows Tracker</value>
+  </data>
+    <data
+        name="AdCrossPromo_BooksTracker_Subtitle"
+        xml:space="preserve">
+    <value>Acompanhe seus livros, como suas séries</value>
+  </data>
+    <data
+        name="AdCrossPromo_BooksTracker_Cta"
+        xml:space="preserve">
+    <value>Ver</value>
+  </data>
+    <data
+        name="AdCrossPromo_Cta"
+        xml:space="preserve">
+    <value>Ver</value>
+  </data>
+    <data
+        name="AdCrossPromo_PodcastTracker_Title"
+        xml:space="preserve">
+    <value>Podcast Tracker · Do criador do TV Shows Tracker</value>
+  </data>
+    <data
+        name="AdCrossPromo_PodcastTracker_Subtitle"
+        xml:space="preserve">
+    <value>Ouça e acompanhe os seus podcasts. Tal como as suas séries.</value>
+  </data>
+    <data
+        name="AdCrossPromo_PodcastTracker_Cta"
+        xml:space="preserve">
+    <value>Ver</value>
+  </data>
+    <data
         name="Settings_Various_FixDb"
         xml:space="preserve">
     <value>Otimizar banco de dados...</value>
