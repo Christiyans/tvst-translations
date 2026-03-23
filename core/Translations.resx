@@ -417,6 +417,12 @@ coffee and happiness from my kids and wife.</value>
   <data name="ShowDetails_Code_SimilarToThisShow" xml:space="preserve">
     <value>YOU MAY ALSO LIKE THESE SHOWS</value>
   </data>
+  <data name="ShowDetails_Code_NotAvailableOnTraktTitle" xml:space="preserve">
+    <value>NOT AVAILABLE ON TRAKT</value>
+  </data>
+  <data name="ShowDetails_Code_NotAvailableOnTraktContent" xml:space="preserve">
+    <value>This show is not available on Trakt yet. I'll open its TMDB page anyway.</value>
+  </data>
   <data name="ShowDetails_OpenInTmdb" xml:space="preserve">
     <value>TMDB</value>
   </data>
