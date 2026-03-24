@@ -1572,6 +1572,15 @@ y tendencias mundiales!</value>
     <data name="Donation_Paypal" xml:space="preserve">
     <value>DONAR VIA PAYPAL</value>
   </data>
+    <data name="Donation_SupportProject_Button" xml:space="preserve">
+    <value>Hacer una donación</value>
+  </data>
+    <data name="Donation_SupportProject_Description" xml:space="preserve">
+    <value>Si quieres ayudar a TV Show Tracker a seguir evolucionando, también puedes apoyar el proyecto con una donación a través de la página de abajo.</value>
+  </data>
+    <data name="Donation_SupportProject_Header" xml:space="preserve">
+    <value>Apoyar el proyecto</value>
+  </data>
     <data name="ListCreation_NameMandatoryToast" xml:space="preserve">
     <value>Pon un nombre a esta lista.</value>
   </data>

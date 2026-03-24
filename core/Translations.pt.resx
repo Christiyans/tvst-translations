@@ -2442,6 +2442,21 @@ merece ser divertida!</value>
     <value>FAÇA UMA DOAÇÃO VIA PAYPAL</value>
   </data>
     <data
+        name="Donation_SupportProject_Button"
+        xml:space="preserve">
+    <value>Fazer uma doação</value>
+  </data>
+    <data
+        name="Donation_SupportProject_Description"
+        xml:space="preserve">
+    <value>Se quiser ajudar o TV Show Tracker a continuar a evoluir, também pode apoiar o projeto com uma doação através da página abaixo.</value>
+  </data>
+    <data
+        name="Donation_SupportProject_Header"
+        xml:space="preserve">
+    <value>Apoiar o projeto</value>
+  </data>
+    <data
         name="ListCreation_NameMandatoryToast"
         xml:space="preserve">
     <value>Forneça um nome para essa lista.</value>

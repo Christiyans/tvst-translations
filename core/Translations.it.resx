@@ -1553,6 +1553,15 @@ merita di essere divertente!</value>
     <data name="Donation_Paypal" xml:space="preserve">
     <value>FAI UNA DONAZIONE TRAMITE PAYPAL</value>
   </data>
+    <data name="Donation_SupportProject_Button" xml:space="preserve">
+    <value>Fai una donazione</value>
+  </data>
+    <data name="Donation_SupportProject_Description" xml:space="preserve">
+    <value>Se vuoi aiutare TV Show Tracker a continuare a evolversi, puoi anche sostenere il progetto con una donazione tramite la pagina qui sotto.</value>
+  </data>
+    <data name="Donation_SupportProject_Header" xml:space="preserve">
+    <value>Sostieni il progetto</value>
+  </data>
     <data name="ListCreation_NameMandatoryToast" xml:space="preserve">
     <value>Fornisci un nome per questo elenco.</value>
   </data>

@@ -1616,6 +1616,15 @@ deserves to be funny!</value>
   <data name="Donation_Paypal" xml:space="preserve">
     <value>DONATE VIA PAYPAL</value>
   </data>
+  <data name="Donation_SupportProject_Button" xml:space="preserve">
+    <value>Make a donation</value>
+  </data>
+  <data name="Donation_SupportProject_Description" xml:space="preserve">
+    <value>If you'd like to help TV Show Tracker keep evolving, you can also support the project with a donation via the page below.</value>
+  </data>
+  <data name="Donation_SupportProject_Header" xml:space="preserve">
+    <value>Support the project</value>
+  </data>
   <data name="Donation_SubscriptionExplanation" xml:space="preserve">
     <value>Provide access to ALL features listed above.
 
