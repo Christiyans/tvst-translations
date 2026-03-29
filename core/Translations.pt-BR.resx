@@ -3711,6 +3711,9 @@ Volte mais tarde!</value>
 Ele adiciona o show à lista de itens que você recomenda pessoalmente.
 Ele cria melhores recomendações pessoais para você.</value>
     </data>
+    <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
+        <value>Não mostrar esta mensagem novamente</value>
+    </data>
     <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
     <value>EPISÓDIOS EXIBIDOS RECENTEMENTE</value>
   </data>

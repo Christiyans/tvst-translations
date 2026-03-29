@@ -3689,6 +3689,9 @@ Revenez plus tard !</value>
 Le bouton "éclair" ajoute les séries/Films à la liste des éléments que vous recommandez personnellement.
 Cela crée de meilleures recommandations personnelles pour vous.</value>
     </data>
+  <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
+    <value>Ne plus afficher ce message</value>
+  </data>
   <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
     <value>ÉPISODES RÉCEMMENT DIFFUSÉS</value>
   </data>

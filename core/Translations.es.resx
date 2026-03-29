@@ -2337,6 +2337,9 @@ Parece que no hay ninguno en este momento.
 Agrega el programa a la lista de elementos que recomienda personalmente.
 Crea mejores recomendaciones personales para usted.</value>
     </data>
+    <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
+        <value>No volver a mostrar este mensaje</value>
+    </data>
     <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
     <value>EPISODIOS EMITIDOS RECIENTEMENTE</value>
   </data>

@@ -2310,6 +2310,9 @@ Torna più tardi!</value>
 Aggiunge la serie all'elenco di articoli che consigli personalmente.
 Crea consigli personalizzati migliori per te.</value>
     </data>
+    <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
+        <value>Non mostrare più questo messaggio</value>
+    </data>
     <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
     <value>EPISODI ANDATI IN ONDA DI RECENTE</value>
   </data>
