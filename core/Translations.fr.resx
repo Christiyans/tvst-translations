@@ -3721,6 +3721,9 @@ Ces données nous aident à améliorer l'application et à résoudre les problè
   <data name="Settings_Various_ForceAdsDisplay_Text" xml:space="preserve">
     <value>Forcer l'affichage des publicités</value>
   </data>
+  <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
+    <value>Activer le swipe pour marquer l'épisode suivant comme vu (mode liste) ?</value>
+  </data>
   <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
     <value>Afficher l'onglet 'films' sur la page d'accueil ?</value>
   </data>

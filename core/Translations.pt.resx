@@ -3732,6 +3732,9 @@ Esses dados nos ajudam a melhorar o aplicativo e a corrigir problemas. Nenhuma i
   <data name="Settings_Various_ForceAdsDisplay_Text" xml:space="preserve">
     <value>Forçar exibição de anúncios</value>
 </data>
+  <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
+    <value>Ativar deslize para marcar o próximo episódio como visto (modo lista)</value>
+  </data>
 
   <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
         <value>Mostrar a aba 'filmes' na página inicial?</value>
