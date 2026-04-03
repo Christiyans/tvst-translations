@@ -1744,7 +1744,7 @@ This data helps us improve the app and fix issues. No personal information is ev
     <value>Force Ads display </value>
   </data>
   <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
-    <value>Enable swipe to mark next episode as seen (list mode).</value>
+    <value>Enable swipe to mark next episode as seen (list mode)?</value>
   </data>
   <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
     <value>Include shows to start watching in the episode left counter Widget count.</value>
