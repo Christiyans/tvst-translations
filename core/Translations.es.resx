@@ -2701,4 +2701,7 @@ Recordatorio: tu código es {0}.</value>
     <data name="Settings_ExportCsv_NoData" xml:space="preserve">
       <value>No hay datos para exportar</value>
     </data>
+    <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
+        <value>¿Activar deslizar para marcar el siguiente episodio como visto (modo lista)?</value>
+    </data>
 </root>
