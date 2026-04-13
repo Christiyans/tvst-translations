@@ -1000,6 +1000,15 @@ para ver suas estatísticas.</value>
         xml:space="preserve">
     <value>TOP SÉRIES</value>
   </data>
+  <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
+    <value>Ver tudo</value>
+  </data>
+  <data name="Home_UserStats_AllTimeTopShows_Title" xml:space="preserve">
+    <value>Top séries de todos os tempos</value>
+  </data>
+  <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
+    <value>Top séries dos últimos 30 dias</value>
+  </data>
     <data
         name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text"
         xml:space="preserve">

@@ -635,6 +635,15 @@ to see your stats.</value>
   <data name="Home_UserStats_TopShow_GroupHeader_Text" xml:space="preserve">
     <value>YOUR TOP SHOWS</value>
   </data>
+  <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
+    <value>See all</value>
+  </data>
+  <data name="Home_UserStats_AllTimeTopShows_Title" xml:space="preserve">
+    <value>All-time top shows</value>
+  </data>
+  <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
+    <value>Last 30 days top shows</value>
+  </data>
   <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
     <value>ep. left to watch in</value>
   </data>

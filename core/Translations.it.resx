@@ -643,6 +643,15 @@ per vedere le tue statistiche.</value>
     <data name="Home_UserStats_TopShow_GroupHeader_Text" xml:space="preserve">
     <value>TOP SERIE TV</value>
   </data>
+  <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
+    <value>Vedi tutto</value>
+  </data>
+  <data name="Home_UserStats_AllTimeTopShows_Title" xml:space="preserve">
+    <value>Top serie di sempre</value>
+  </data>
+  <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
+    <value>Top serie degli ultimi 30 giorni</value>
+  </data>
     <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
     <value>episodi da vedere in</value>
   </data>
