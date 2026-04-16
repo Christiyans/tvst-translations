@@ -2822,4 +2822,16 @@ Promemoria: il tuo codice è {0}.</value>
     <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
         <value>Abilita lo scorrimento per segnare il prossimo episodio come visto (modalità lista)</value>
     </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+      <value>Account diverso rilevato</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+      <value>Eri connesso come "{0}" ma l'account attuale è "{1}". Se continui, tutti i dati locali verranno cancellati.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+      <value>Disconnettersi</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+      <value>Continua e cancella i dati</value>
+  </data>
 </root>

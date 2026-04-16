@@ -4086,4 +4086,16 @@ Lembrete: o seu código é {0}.</value>
     <data name="Settings_ExportCsv_NoData" xml:space="preserve">
         <value>Nenhum dado para exportar</value>
     </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+      <value>Conta diferente detetada</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+      <value>Estava ligado como "{0}" mas a conta atual é "{1}". Se continuar, todos os dados locais serão apagados.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+      <value>Terminar sessão</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+      <value>Continuar e apagar dados</value>
+  </data>
 </root>

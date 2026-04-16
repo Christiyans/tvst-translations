@@ -4046,4 +4046,16 @@ Rappel : votre code est {0}.</value>
   <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
     <value>BANDE-ANNONCE</value>
   </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+      <value>Compte différent détecté</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+      <value>Vous étiez connecté en tant que "{0}" mais le compte actuel est "{1}". Si vous continuez, toutes les données locales seront effacées.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+      <value>Se déconnecter</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+      <value>Continuer et effacer les données</value>
+  </data>
 </root>

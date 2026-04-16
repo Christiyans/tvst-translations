@@ -2713,4 +2713,16 @@ Recordatorio: tu código es {0}.</value>
     <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
         <value>¿Activar deslizar para marcar el siguiente episodio como visto (modo lista)?</value>
     </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+      <value>Cuenta diferente detectada</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+      <value>Estabas conectado como "{0}" pero la cuenta actual es "{1}". Si continúas, todos los datos locales serán borrados.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+      <value>Cerrar sesión</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+      <value>Continuar y borrar datos</value>
+  </data>
 </root>
