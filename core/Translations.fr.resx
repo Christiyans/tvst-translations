@@ -4058,4 +4058,7 @@ Rappel : votre code est {0}.</value>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
       <value>Continuer et effacer les données</value>
   </data>
+  <data name="TopShows_HiddenTag_Label" xml:space="preserve">
+      <value>Masquée</value>
+  </data>
 </root>

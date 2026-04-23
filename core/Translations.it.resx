@@ -652,6 +652,9 @@ per vedere le tue statistiche.</value>
   <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
     <value>Top serie degli ultimi 30 giorni</value>
   </data>
+  <data name="TopShows_HiddenTag_Label" xml:space="preserve">
+    <value>Nascosta</value>
+  </data>
     <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
     <value>episodi da vedere in</value>
   </data>
